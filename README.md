@@ -1,10 +1,10 @@
-# 🧠 AI-Powered Cold Outreach & CRM Automation System
+# AI-Powered Cold Outreach & CRM Automation System
 
 A complete, scalable cold outreach system that combines Airtable, AI (ChatGPT/Claude), and Zapier to automate prospecting, email personalization, and CRM tracking.
 
 ---
 
-## 📍 Use Case
+## Use Case
 
 Built for consultants, small agencies, and service-based businesses who need:
 - A repeatable cold outreach system
@@ -13,16 +13,16 @@ Built for consultants, small agencies, and service-based businesses who need:
 
 ---
 
-## 🧩 Pain Points This Solves
+## Pain Points This Solves
 
-- 👩‍💻 Writing outreach emails one-by-one
-- 🧾 Forgetting follow-ups or losing leads
-- 🧯 CRM clutter and inconsistent statuses
-- ⏳ Hours wasted on non-revenue tasks
+- Writing outreach emails one-by-one
+- Forgetting follow-ups or losing leads
+- CRM clutter and inconsistent statuses
+- Hours wasted on non-revenue tasks
 
 ---
 
-## ✅ Solution Overview
+## Solution Overview
 
 | Step | Description |
 |------|-------------|
@@ -35,7 +35,7 @@ Built for consultants, small agencies, and service-based businesses who need:
 
 ---
 
-## 🛠️ Tools & Integrations
+## Tools & Integrations
 
 | Tool       | Function                                |
 |------------|------------------------------------------|
@@ -47,17 +47,17 @@ Built for consultants, small agencies, and service-based businesses who need:
 
 ---
 
-## 💌 Sample AI Prompt for Email Personalization
+## Sample AI Prompt for Email Personalization
 
 You are a growth consultant writing a cold email to a Head of Marketing at a fast-growing SaaS startup. Mention a recent industry trend, compliment their brand tone, and offer a free strategy call. Keep it under 80 words.
 
 
 
-> ✨ Add this prompt into a Zapier + OpenAI step for dynamic output.
+> Add this prompt into a Zapier + OpenAI step for dynamic output.
 
 ---
 
-## 💼 Example Airtable Views
+## Example Airtable Views
 
 - `Lead Inbox`: new entries needing email
 - `Hot Leads`: people who replied or showed interest
@@ -66,7 +66,7 @@ You are a growth consultant writing a cold email to a Head of Marketing at a fas
 
 ---
 
-## 📊 Zapier Flow Overview
+## Zapier Flow Overview
 
 - **Trigger:** New record in Airtable (view: “Ready to Contact”)
 - **Action 1:** Use OpenAI/Claude to generate message
@@ -76,7 +76,7 @@ You are a growth consultant writing a cold email to a Head of Marketing at a fas
 
 ---
 
-## 🎯 Results from Previous Deployments
+## Results from Previous Deployments
 
 - 🔽 Reduced lead-to-send time by 70%
 - 🔁 2–3x follow-up consistency across teams
@@ -85,7 +85,7 @@ You are a growth consultant writing a cold email to a Head of Marketing at a fas
 
 ---
 
-## 📎 Bonus Assets
+## Bonus Assets
 
 - Airtable base template link (available on request)
 - ChatGPT Prompt Library (.md)
@@ -94,7 +94,7 @@ You are a growth consultant writing a cold email to a Head of Marketing at a fas
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Smart time delay logic in follow-ups
 - AI sentiment tracking on replies
@@ -102,7 +102,7 @@ You are a growth consultant writing a cold email to a Head of Marketing at a fas
 
 ---
 
-## 🧠 Author Notes
+## Author Notes
 
 This project was designed by **Lilian Odish**, a Strategic Growth Consultant helping brands streamline operations and maximize revenue using human-first automation systems.  
 Feel free to fork, use, or reach out with feedback!
